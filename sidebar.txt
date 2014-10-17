@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ssu:home|Door43 (ssu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ssu|d43-ssu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ssu/archive/master.zip|d43-ssu.zip]]
+
+**Recent Changes**
+{{changes>ns = ssu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ssu|Ethnologue data]]
+
